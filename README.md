@@ -1,4 +1,4 @@
-Hi 👋 My name is KUNANON WANYEN
+Hi 🍀 My name is KUNANON WANYEN
 ===============================
 
 I'am Electronics Engineer KMITL (LV. Practice Engineer Y2).
