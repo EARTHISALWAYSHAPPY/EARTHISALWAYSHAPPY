@@ -11,6 +11,7 @@ My coding started with programming robots when I was 13 years old, and now I'm u
 
 <a href="https://www.github.com/EARTHISALWAYSHAPPY" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/EARTHISALWAYSHAPPY?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
+
 [![](https://visitcount.itsvg.in/api?id=EARTHISALWAYSHAPPY&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ### Skills
