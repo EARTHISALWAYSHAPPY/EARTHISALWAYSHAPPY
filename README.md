@@ -6,7 +6,7 @@ I'am Electronics Engineer KMITL (LV. Practice Engineer Y2).
 
 My coding started with programming robots when I was 13 years old, and now I'm upgrading my skills.
 
-* 🌍  I'm based in Bangkok, Thailand
+* 🌍  I'm based in Nakhon Pathom, Thailand
 * ✉️  You can contact me at [66010103@kmitl.ac.th](mailto:66010103@kmitl.ac.th)
   
 <a href="https://www.github.com/EARTHISALWAYSHAPPY" target="_blank" rel="noreferrer"><img
