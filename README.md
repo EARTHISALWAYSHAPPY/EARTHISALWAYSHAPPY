@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kunanon Wanyen
 =======================================================================================================================================
 
-* ✉️  You can contact me at [Kunanon.wanyen@kmitl.ac.th](mailto:Kunanon.wanyen@gmail.com)
+* ✉️  You can contact me at [Kunanon.wanyen@gmail.com](mailto:Kunanon.wanyen@gmail.com)
 * 🧠  I'm currently learning Valorant
 
 <p align="left">
